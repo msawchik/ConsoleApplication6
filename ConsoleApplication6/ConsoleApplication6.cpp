@@ -137,7 +137,7 @@ int main()
         mybtree.insert(i);
     }
 
-    mynode = mybtree.search(150);
+    mynode = mybtree.search(25);
 
     if(mynode != NULL)
     {
